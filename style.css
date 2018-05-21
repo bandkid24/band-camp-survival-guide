@@ -1,0 +1,86 @@
+html{
+    font-family:cursive;
+}
+body{
+    background-color:navy;
+}
+header{
+    text-align: center; padding:.5em; background-image: url(img/music%20staff.jfif); background-repeat:repeat-x;
+}
+button{
+    text-align: center; width:50%; font-size:50px; background-color:white; color:navy; border:2.5px groove red; font-family: cursive;
+}
+button:hover{
+    text-align: center; width:50%; font-size:50px; background-color:navy; color:white; border:2.5px groove red;
+}
+button:active{
+    text-align: center; width:50%; font-size:50px; background-color:navy; color:red; border:2.5px groove red;
+}
+footer{
+    color:white; text-align: center; font-size:.75em
+}
+footer a{
+    color:aqua;
+}
+.table a:active,footer a:visited{
+    color:mediumpurple;
+}
+.table a:active,footer a:active{
+    color:thistle;
+}
+table{
+     width:100%;
+}
+td{
+   color:white; font-size: 25px; text-align: center;
+}
+th{
+    color:white; font-size:3em;
+}
+#golden{
+    color:gold;
+}
+.table{
+    border:2.5px groove red; background-color:gainsboro; color:red;
+}
+.home{
+    width:100%;
+}
+.home:active{
+    width:100%;
+}
+.home:hover{
+    width:100%;
+}
+iframe{
+    border:2.5px groove red; align-self: center;
+}
+.rules{
+    border:2.5px groove red; background-color:gainsboro; color:navy;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
